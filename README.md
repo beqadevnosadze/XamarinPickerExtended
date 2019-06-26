@@ -1,11 +1,13 @@
 # XamarinPickerExtended
-Xamarin Picker extended to bind more like win forms Combo box Does
+Xamarin Forms Picker extended to bind more like win forms Combo box Does
 
 
 **How it works**
 
+Put ExtendedPicker.cs in your project and change namespace 
 
 In Xaml Add
+
 
 ```xaml
 xmlns:common="clr-namespace:YourNameSpace;assembly=YourAssemblyName"
