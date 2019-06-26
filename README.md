@@ -20,7 +20,7 @@ Initialization From xaml
                 DataSource="{Binding YourDataSource}"
                 DisplayMember="Name"
                 ValueMember="Id"
-                SelectedValue="{Binding SomeTableId}"
+                SelectedValue="{Binding SomeTableValueId}"
                 ></common:ExtendedPicker>
 ```
 
